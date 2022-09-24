@@ -1,0 +1,4 @@
+- this file could have a better structure, right now I'm just thinking bullet points/brainstorming.
+- if one should find himself in a lack of ideas for the debate subject, I think it would be interesting, and certainly helpful to cover a paper in this list: https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science
+Since these created the foundation of computer science, even if they do not seem relevant right now, understanding the creative process (these are mostly papers that provided breakthroughs, or created new areas of research) should certainly provides useful insight.
+- should the meetings be constrained to computer science subjects (ranging from more philosophical to more technical topics), or should we feel free to cover papers in different areas (thinking psychology, or especially interesting paper in any domain etc.)?
